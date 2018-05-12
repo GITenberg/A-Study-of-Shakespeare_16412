@@ -1,0 +1,49 @@
+_repo: A-Study-of-Shakespeare_16412
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swinburne, Algernon Charles
+    aliases:
+    - Maitland, A. C. (Algernon Charles)
+    - Maitland, Thomas
+    birthdate: 1837
+    deathdate: 1909
+    gutenberg_agent_id: '832'
+    url: http://www.gutenberg.org/2009/agents/832
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Swinburne
+  editor:
+    agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund William, Sir
+    - Gosse, Edmund W. (Edmund William)
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+description: '"Report of the proceedings ... of the newest Shakespeare society" is
+  an attack upon the New Shakespere society.'
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616 -- Criticism and interpretation'
+- !lcc 'PR'
+- !lcsh 'New Shakspere Society (Great Britain)'
+tableOfContents: 'A study of Shakespeare. I. First period: lyric and fantastic. II.
+  Second period: comic and historic. III. Third period: tragic and romantic (from
+  Fortnightly review, May, 1875, January, 1876) -- Appendix. I. Note on the historical
+  play of King Edward III (from Gentleman''s magazine, August and September, 1879)
+  II. Report of the proceedings on the first anniversary session of the newest Shakespeare
+  society (from the Examiner, April, 1876) III. Additions and corrections [signed:
+  Chimera Bombinans in Vacuo] (from the Examiner, April, 1876).'
+title: A Study of Shakespeare
+url: http://www.gutenberg.org/ebooks/16412
