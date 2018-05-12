@@ -26,6 +26,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
 description: '"Report of the proceedings ... of the newest Shakespeare society" is
   an attack upon the New Shakespere society.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16412#A-Study-of-Shakespeare
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
 identifiers:
